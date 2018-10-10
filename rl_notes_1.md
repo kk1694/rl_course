@@ -1,6 +1,6 @@
 # Reinforcement Learning Notes 1
 
-(Edited version at https://krisztiankovacs.com/reinforcement_learning/2018/09/19/rl-notes-1.html)
+(Edited version at https://krisztiankovacs.com/rl-notes-1/)
 
 These notes are based on [Siraj Raval's reinforcement learning course](https://www.youtube.com/watch?v=fRmZck1Dakc). This week was about basic concepts of markov decision processes (MDPs).
 
